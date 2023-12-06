@@ -1,0 +1,12 @@
+D:\C++bulder\ArabDesign\LM\LM\x64\Debug\LM.vcxproj.AssemblyReference.cache
+D:\C++bulder\ArabDesign\LM\LM\x64\Debug\LM.vcxproj.SuggestedBindingRedirects.cache
+D:\C++bulder\ArabDesign\LM\LM\x64\Debug\LM.MyForm.resources
+D:\C++bulder\ArabDesign\LM\LM\x64\Debug\LM.MyForm1.resources
+D:\C++bulder\ArabDesign\LM\LM\x64\Debug\LM.MyForm2.resources
+D:\C++bulder\ArabDesign\LM\LM\x64\Debug\LM.vcxproj.GenerateResource.cache
+D:\C++builder\ArabDesign\LM\LM\x64\Debug\LM.vcxproj.AssemblyReference.cache
+D:\C++builder\ArabDesign\LM\LM\x64\Debug\LM.vcxproj.SuggestedBindingRedirects.cache
+D:\C++builder\ArabDesign\LM\LM\x64\Debug\LM.MyForm.resources
+D:\C++builder\ArabDesign\LM\LM\x64\Debug\LM.MyForm1.resources
+D:\C++builder\ArabDesign\LM\LM\x64\Debug\LM.MyForm2.resources
+D:\C++builder\ArabDesign\LM\LM\x64\Debug\LM.vcxproj.GenerateResource.cache
